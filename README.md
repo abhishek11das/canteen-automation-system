@@ -23,5 +23,5 @@ A web-based canteen management application built using PHP and MySQL. This syste
 - **Database**: MySQL (via XAMPP)
 - **AJAX**: Used for asynchronous operations (cart, data load, etc.)
 
-📄 License
+## 📄 License
 This project is intended for academic purposes. You are free to modify and use it for learning or educational demonstrations.
